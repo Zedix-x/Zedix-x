@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zedix
-- 👀 I’m interested in programming, playing video games, watching anime and talking with people
-- 🌱 I’m currently learning python
+- 👀 I’m interested in programming, playing video games, watching anime, learning new things and talking with people
+- 🌱 I’m currently learning Python and Swift
 - 💞️ I’m looking to collaborate on a lot of projects
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
