@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zedix
+- 👋 Hi, I’m Zed
 - 👀 I’m interested in programming, playing video games, watching anime, learning new things and talking with people
 - 🌱 I’m currently learning Python and Swift
 - 💞️ I’m looking to collaborate on a lot of projects
